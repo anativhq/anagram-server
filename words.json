@@ -1,0 +1,43 @@
+{
+    "candidate-words": [{
+        "id": 1,
+        "word1": "apple",
+        "word2": "bacon"
+    }, {
+        "id": 2,
+        "word1": "pear",
+        "word2": "cheese"
+    }, {
+        "id": 3,
+        "word1": "a",
+        "word2": "bee"
+    }, {
+        "id": 4,
+        "word1": "cheese",
+        "word2": "chose"
+    }, {
+        "id": 5,
+        "word1": "talks",
+        "word2": "stalk"
+    }, {
+        "id": 6,
+        "word1": "dog",
+        "word2": "cat"
+    }, {
+        "id": 7,
+        "word1": "taken",
+        "word2": "token"
+    }, {
+        "id": 8,
+        "word1": "ripples",
+        "word2": "slipper"
+    }, {
+        "id": 9,
+        "word1": "rescued",
+        "word2": "secured"
+    }, {
+        "id": 10,
+        "word1": "test",
+        "word2": "finished"
+    }]
+}
