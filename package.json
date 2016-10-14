@@ -1,0 +1,28 @@
+{
+  "name": "anagram-server",
+  "version": "0.0.1",
+  "description": "a basic provider of anagrams",
+  "main": "server.js",
+  "scripts": {
+    "start": "json-server --watch words.json",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anativhq/anagram-server.git"
+  },
+  "keywords": [
+    "anagram",
+    "test",
+    "server"
+  ],
+  "author": "Laurie Bantin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anativhq/anagram-server/issues"
+  },
+  "homepage": "https://github.com/anativhq/anagram-server#readme",
+  "dependencies": {
+    "json-server": "^0.8.22"
+  }
+}
